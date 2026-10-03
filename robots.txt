@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cavin0983-spec.github.io/crypTao.github.io/sitemap.xml
